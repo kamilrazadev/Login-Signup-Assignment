@@ -1,0 +1,21 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+button{
+    padding: 6px 15px;
+}
+
+.form  {
+    display: flex;
+    min-height: 90vh;
+
+}
+
+#login-heading {
+    display: none;
+}
+
+#login-btn {
+    display: none;
+}
